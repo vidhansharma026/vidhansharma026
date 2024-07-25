@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80594c2c-085c-45b3-a334-96d4ffd4d954" alt="vidhan-gif"
+    width="60%" height="35%">
+</p>
 
 <!--
 **vidhansharma026/vidhansharma026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
