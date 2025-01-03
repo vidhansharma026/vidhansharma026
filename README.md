@@ -1,19 +1,18 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/80594c2c-085c-45b3-a334-96d4ffd4d954" alt="vidhan-gif"
-    width="60%" height="35%">
-</p>
+# 👨‍💻 Vidhan Sharma  
 
-<!--
-**vidhansharma026/vidhansharma026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm **Vidhan Sharma**, a passionate **Python developer** from 🇮🇳 **India**, currently living in **Indore**.  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 💼 I specialize in building robust backend systems using Python frameworks like **FastAPI**, **Django**, and **Flask**.   
+- 🌱 Currently exploring **AI/ML** and diving deeper into **DevOps** tools like Docker, Kubernetes, and CI/CD pipelines.  
+- 🎯 My goal is to contribute to open-source projects and share knowledge with the developer community.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack  
+- **Languages**: Python, JavaScript  
+- **Frameworks**: FastAPI, Django, Flask  
+- **Databases**: PostgreSQL, MySQL, SQLite  
+- **Tools**: Git, Docker, Alembic, Celery  
+
+## 📫 How to Reach Me   
+- 💼 LinkedIn: [Vidhan Sharma](https://www.linkedin.com/in/vidhan-sharma-066360236)  
+- 📧 Email: vidhansharma026@gmail.com  
